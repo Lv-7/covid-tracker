@@ -1,0 +1,34 @@
+
+
+.p {
+  color: #0070f3;
+}
+.span {
+  color: wheat;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #181818;
+  height: 100vh;
+  width: 100vw;
+  color: wheat;
+}
+
+.btn {
+  color: whitesmoke;
+  background: #0070f3;
+  padding: 3px;
+  width: 100px;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.input {
+  border-radius: 20px;
+  padding: 5px;
+  outline: none;
+}
