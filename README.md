@@ -1,0 +1,2 @@
+# covid-tracker
+next-js
